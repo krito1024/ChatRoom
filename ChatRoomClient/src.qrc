@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>src/images.png</file>
+        <file>src/df.png</file>
+        <file>src/boss.png</file>
+        <file>src/ChatRoom.jpg</file>
+        <file>src/jj.png</file>
+        <file>src/jj2.png</file>
+        <file>src/l.png</file>
+        <file>src/Linux.jpg</file>
+        <file>src/liu.png</file>
+        <file>src/m.png</file>
+        <file>src/m2.png</file>
+        <file>src/qq.png</file>
+        <file>src/w.png</file>
+        <file>src/w2.png</file>
+        <file>src/z.png</file>
+        <file>src/zz.png</file>
+    </qresource>
+</RCC>
